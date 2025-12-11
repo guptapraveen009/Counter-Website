@@ -1,0 +1,48 @@
+body{
+    background-color: darkcyan;
+}
+.container{
+  
+    width: 50%;
+    margin: 300px;
+    margin-left: 400px;
+    border: 2px solid grey;
+    box-shadow: 5px 5px grey;
+}
+#h-count{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.main-count{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.btn-count{
+    display: flex;
+    gap: 2px;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+#increase{
+    background-color: aquamarine;
+    border-radius: 5px;
+    font-size: 15px;
+}
+#decrease{
+    background-color: aquamarine;
+    border-radius: 5px;
+    font-size: 15px;
+}
+#reset{
+    background-color: aquamarine;
+    border-radius: 5px;
+    font-size: 15px;
+}
