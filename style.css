@@ -48,10 +48,13 @@ body{
 }
 
 @media (max-width: 425px) {
-    /* .container {
-        margin-right: 20px;
-    } */
-     body{
-        background-color: red;
-     }
+ 
+    .container {
+        width: 90%;
+        margin: 20px auto;  
+        box-sizing: border-box;
+    }
 }
+
+   
+
