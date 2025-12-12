@@ -46,3 +46,9 @@ body{
     border-radius: 5px;
     font-size: 15px;
 }
+
+@media(max-width : 425px){
+    .container{
+        margin-right: 50%;
+    }
+}
