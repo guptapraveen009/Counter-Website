@@ -50,8 +50,9 @@ body{
 @media (min-width: 425px) and (max-width: 1024px) {
  
     .container {
+    
         width: 90%;
-        margin: 20px auto;  
+        margin: 150px auto;  
         box-sizing: border-box;
     }
 }
